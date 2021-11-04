@@ -9,6 +9,7 @@ public class SpringBootTestApplication {
 
     public static void main(String[] args) {
         ConfigurableApplicationContext run = SpringApplication.run(SpringBootTestApplication.class, args);
+        System.out.println(111);
     }
 
 }

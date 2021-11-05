@@ -14,6 +14,8 @@ public class SpringBootTestApplication {
         System.out.println("github zhendi buxing");
         System.out.println("github zhendi buxing");
         System.out.println("github zhendi buxing");
+        System.out.println("pull test");
+
     }
 
 }
